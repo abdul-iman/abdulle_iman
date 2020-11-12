@@ -1,0 +1,96 @@
+## intent:greet
+- hi
+- hey
+- hello
+- good morning
+- how are you
+- hola
+- good evening
+- whats up
+- sup
+
+## intent:buy_phone_laptop
+- I would like to buy a [phone](category)
+- I want to buy a [laptop](category)
+- Please give me a good [laptop](category)
+- I wanted to purchase a [phone](category)
+- Can you recommend me a [laptop](category)
+- give me some recommendations for [mobile](category)
+- Can you suggest a [laptop](category)
+- I wanna buy a [mobile](category)
+- Im interested in purchasing a [phone](category)
+
+
+
+## intent:latest_news_phones_laptops
+- Whats the latest news with [phones](category)
+- Can you tell me about the trends regarding [phones](category)
+- Whats going in the tech world for [laptops](category)
+- Can you show me the trends in [laptops](category)
+- Any new releases for [mobiles](category), whats the news
+- update me on the [mobile](category) news
+- show me the latest news for [mobiles](category)
+
+
+
+## intent:goodbye
+- goodbye
+- ciao
+- c u around
+- bye
+- c ya
+- c u
+- ciao
+- talk to you later
+- see you around
+
+## intent:give_information
+- I'm looking for 8 GB Ram
+- I would like 10 GB RAM
+- I want a camera of 65 megapixel
+- I'm looking for 15 megapixel
+- 25 megapixel
+- I was looking for 4000 mah battery backup
+- 3500 mah
+- around 16 GB RAM
+- 8 GB RAM
+- Well around 50 megapixel
+- I am looking for 5000 mah  battery
+- Well the battery should be 4300 mah
+- Well I would like 25 mp camera
+- A camera of 40 mp
+- around 8 GB RAM
+- 4 GB RAM
+- 5000 mah
+- 3000 mah
+- 25 mp
+- I want 3500 mah battery
+- 50
+- 25
+- 8
+- 5000
+- 7000
+
+
+## intent:budget_available
+- 400 is my budget
+- i can only spend 400
+- i can totally spend on a phone about 200
+- I can shell out approx 450 
+- well its around 500 
+- 600 
+- i want it to be 700
+- the target spending is 1000
+- i am planning to spend 380
+- i am willing to spend 600
+
+## synonym:phone
+- mobile
+- mobiles
+- telephone 
+- mobile phone
+- cell phone
+- car phone
+
+
+
